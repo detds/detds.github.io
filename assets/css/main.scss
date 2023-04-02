@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.page__hero--overlay {
+    position: relative;
+    margin-bottom: 2em;
+    padding: 3em 0;
+    clear: both;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-animation: intro .3s both;
+    animation: intro .3s both;
+    -webkit-animation-delay: .25s;
+    animation-delay: .25s
+}
+
+.h2-page-hero {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 800px;
+    color: rgb(37, 42, 52);
+}
