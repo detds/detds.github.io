@@ -20,7 +20,7 @@ minimal_mistakes_skin    : 'dark'
 locale                   : "pt-BR"
 title                    : "Dennis Teles"
 title_separator          : "-"
-subtitle                 : "Blog de um dev Java" # site tagline that appears below site title in masthead
+subtitle                 : "Desbravando Java e tecnologias relacionadas" # site tagline that appears below site title in masthead
 name                     : "Dennis Teles"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
