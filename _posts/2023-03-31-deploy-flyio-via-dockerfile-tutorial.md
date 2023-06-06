@@ -3,7 +3,7 @@ title: "Como fazer deploy de uma aplicação Java Spring Boot no fly.io: um pass
 permalink: /deply-flyio-via-dockerfile-tutorial
 layout: single
 header:
-  overlay_color: "#00ADB5"
+  overlay_color: "#003641"
 author_profile: true
 toc: true
 toc_sticky: true
@@ -14,7 +14,7 @@ excerpt: Um breve tutorial de como fazer um deploy de uma aplicação no Fly.io 
 
 O Fly.io pode ser considerado uma ótima **alternativa ao Heroku**, principalmente para quem busca **uma solução gratuita** para o deploy de aplicações Java, uma vez que o Heroku, atualmente, exige o pagamento para o uso de seus serviços. Ele oferece recursos para hospedagem e execução de bancos de dados em sua plataforma, incluindo a opção de executar bancos de dados em contêineres Docker, além de oferecer serviços de banco de dados gerenciados, como o Fly Postgres (PostgreSQL), Redis e MySQL. Com esses recursos, é possível executar e escalar bancos de dados em um ambiente de hospedagem distribuído e altamente disponível.
 
-Você pode acessar um dos meus projetos no github [clicando aqui](https://github.com/detds/project-spring-java-17) onde fiz o deploy de uma aplicação Java com web serviços, utilizando Spring Boot e banco de dados PostgreSQL,
+Você pode acessar um dos meus projetos no github [clicando aqui](https://github.com/detds/project-spring-java-17) onde fiz o deploy de uma aplicação Java com web serviços, utilizando Spring Boot e banco de dados PostgreSQL.
 
 
 ## 1. Instalação do Flyctl
