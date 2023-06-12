@@ -1,12 +1,12 @@
 ---
-layout: splash
+layout: home-splash
 permalink: /
 hidden: true
 title: <center><img alt="logo Dennis Teles" src="/assets/images/logo-dennisteles3.png"></center>
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/pagehero-background.jpg
-  overlay_filter: rgba(207, 220, 231, 0.75)
+  overlay_image: /assets/images/bg.jpg
+  # overlay_filter: rgba(207, 220, 231, 0.75)
 excerpt: <h1 class="h2-page-hero">Conteúdo sobre Java e tecnologias relacionadas</h1>
 feature_row:
   - image_path: /assets/images/blog2.png
