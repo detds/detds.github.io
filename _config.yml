@@ -22,7 +22,7 @@ title                    : "Dennis Teles"
 title_separator          : "-"
 subtitle                 : "Desbravando Java e tecnologias relacionadas" # site tagline that appears below site title in masthead
 name                     : "Dennis Teles"
-description              : "An amazing website."
+description              : "Site sobre Java e tecnologias relacionadas."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ author:
   name             : "Dennis Teles"
   avatar           : "/assets/images/my-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Desenvolvedor backend Java, curioso, apaixonado por tecnologia e compartilhando conhecimento 🚀. "
-  location         : "Somewhere"
+  location         : "São Paulo, Brasil"
   email            :
   links:
     - label: "Email"
@@ -129,7 +129,10 @@ author:
       url: "https://github.com/detds"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dennisteles/"
 
 # Site Footer
 footer:
@@ -142,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/detds"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -151,8 +154,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dennisteles/"
 
 # Reading Files
 include:
